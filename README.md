@@ -1,6 +1,9 @@
-# emre_yildirim_hw2
+# Emre Yıldırım - CET301 HW2
 
-A new Flutter application.
+Emre YILDIRIM CET301 HW2
+
+![emrecalc](https://user-images.githubusercontent.com/44210684/102022197-347e1900-3d96-11eb-9d57-dff6545bcd34.gif)
+
 
 ## Getting Started
 
